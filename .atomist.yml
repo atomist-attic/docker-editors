@@ -35,3 +35,16 @@ editor:
     - "maven_user": "t************h"
     - "maven_token": "A***********************************************************************i"
 
+---
+kind: "operation"
+client: "rug-cli 0.22.0"
+editor:
+  name: "atomist-rugs.rug-editors.AddTypeScript"
+  group: "atomist-rugs"
+  artifact: "rug-editors"
+  version: "0.6.0"
+  origin:
+    repo: "https://github.com/atomist-rugs/rug-editors.git"
+    branch: "2c1257b26b749c24f3204b8484faa19b6df666c3"
+    sha: "2c1257b*"
+
